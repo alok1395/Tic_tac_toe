@@ -8,7 +8,7 @@
 
     <Button
         android:id="@+id/bu1player"
-        android:layout_width="324dp"
+        android:layout_width="325dp"
         android:layout_height="70dp"
         android:layout_marginTop="176dp"
         android:onClick="BuClick1Player"
