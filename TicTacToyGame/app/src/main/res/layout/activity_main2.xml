@@ -5,10 +5,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Main2Activity">
-
+<!---->
     <Button
         android:id="@+id/bu1player"
-        android:layout_width="325dp"
+        android:layout_width="324dp"
         android:layout_height="70dp"
         android:layout_marginTop="176dp"
         android:onClick="BuClick1Player"
